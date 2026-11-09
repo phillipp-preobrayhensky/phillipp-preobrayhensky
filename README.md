@@ -1,30 +1,30 @@
-![Avraam — презентации, тексты и автоматизация](assets/banner.png)
+![Avraam — presentations, texts and automation](assets/banner.png)
 
-## Помогаю представить идею и упростить рабочую задачу
+## I help present ideas and simplify work tasks
 
-Презентации и документы, таблицы, переводы RU / EN / DE, небольшие сайты и Telegram-боты, Python с ИИ.
+Presentations and documents, spreadsheets, RU / EN / DE translations, small websites and Telegram bots, AI-assisted Python.
 
-### Что можно поручить
+### What you can delegate
 
-| Направление | Результат |
+| Area | Deliverable |
 |---|---|
-| Презентации | Структура и оформление, редактируемые слайды и PDF |
-| Тексты и документы | Инструкции, деловые материалы, редактура и корректура |
-| Excel / Google Sheets | Простой учёт, формулы, фильтры и сводные показатели |
-| RU ↔ EN / DE | Общая деловая переписка и несложные тексты |
-| Сайты и Telegram | Небольшие прототипы по согласованному заданию |
-| Python и ИИ | Обработка CSV, промпты и шаблоны задач |
-| Контент и информация | Тексты постов, контент-планы, краткие обзоры открытых источников |
+| Presentations | Structure and design, editable slides and PDF |
+| Texts and documents | Instructions, business materials, editing and proofreading |
+| Excel / Google Sheets | Simple tracking, formulas, filters and summary metrics |
+| RU ↔ EN / DE | General business correspondence and straightforward texts |
+| Websites and Telegram | Small prototypes based on an agreed brief |
+| Python and AI | CSV processing, prompts and task templates |
+| Content and information | Social media posts, content plans, brief reviews of public sources |
 
-### Работы и исходники
+### Work and source files
 
-- **[Портфолио](https://github.com/phillipp-preobrayhensky/portfolio)** — примеры, превью и редактируемые файлы.
-- **[Catalog CSV Checker](https://github.com/phillipp-preobrayhensky/catalog-csv-checker)** — небольшой Python-инструмент с отчётами и девятью тестами.
+- **[Portfolio](https://github.com/phillipp-preobrayhensky/portfolio)** — examples, previews and editable files.
+- **[Catalog CSV Checker](https://github.com/phillipp-preobrayhensky/catalog-csv-checker)** — a small Python tool with reports and nine tests.
 
-### Инструменты
+### Tools
 
 MS Office · Google Workspace · Python · Telegram · Git / GitHub · Supabase
 
-Учусь программированию. Предпочитаю согласовывать задачу в переписке: исходники, результат, объём, срок. Использую ИИ; учебные примеры отмечены, вымышленные клиентские результаты не заявляются. EN / DE — B2–C1 по самооценке.
+I am studying programming. I prefer to agree on tasks in writing: source materials, deliverables, scope and deadline. I use AI; educational examples are labeled, and no fictional client results are claimed. EN / DE — self-assessed B2–C1.
 
 **EN** · Presentations, documents, spreadsheets, RU/EN/DE business texts and small AI-assisted Python projects. Editable examples and source files are included.
