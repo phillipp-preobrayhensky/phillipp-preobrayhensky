@@ -1,4 +1,4 @@
-![Avraam — presentations, texts and automation](assets/banner.png)
+ABOUT ME
 
 ## I help present ideas and simplify work tasks
 
